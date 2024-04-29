@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aman Sharma. </h1>
+<h1 align="center">Hi 👋<br>I'm Aman Sharma. </h1>
 <h3 align="center">An Android app developer from India </h3>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-aman-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="developer-aman-sharma" /> </p>
 
 - 🔭 I’m currently working on a News App

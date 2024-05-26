@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **officialprofin@gmail.com**
 
-- 📄 Know about my experiences - [Click here](https://drive.google.com/file/d/1ardbwJupJmnHFaNX_MD4bBi8JvBI71m7/view?usp=drive_link)
+- 📄 Know about my experiences - [Click here](https://drive.google.com/file/d/1tlxblOhdzh8LswqFYszxSQQ_FiS46iqC/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy working on my projects**
 

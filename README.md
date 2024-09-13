@@ -4,6 +4,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-aman-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="developer-aman-sharma" /> </p>
 
+- 👉 My important projects are **private** so you can't see them here  
 - 🔭 I’m currently working on a News App
 
 - 🌱 I am working on my **skills** day by day and learning new things.
